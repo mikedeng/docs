@@ -1,0 +1,3 @@
+Mon: I have no morals, and I need the cash.
+Boss: It's like I'm looking in a mirror.
+Boss: They taste exactly like pistachios...

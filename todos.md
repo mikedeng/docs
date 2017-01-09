@@ -163,7 +163,7 @@ b、看完一个景点的全部，再切换的时候就回到列表。
 +   websock in zhihu.我的
 
 
-​    
+​
 
     ## tuning
 
@@ -174,15 +174,19 @@ b、看完一个景点的全部，再切换的时候就回到列表。
         ...
     });
     ​```
-    
+
     ​```css
     $( '#rooms' ).on( 'click', 'li', function() {
         ...
     });
     ​```
-    
+
     ​
 
 ## 小程序
 
 + set static of swiper
+
+## projects
+
++ 异地取款 statistics
